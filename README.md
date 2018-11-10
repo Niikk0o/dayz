@@ -1,9 +1,9 @@
 # DayzServer Side Mod
 NoStaminaMod <- 
 
-[h1]NO STAMINA - Server-side Mod[/h1]
+NO STAMINA - Server-side Mod
 
-[url=https://drive.google.com/file/d/15YtujGyBwfapg5w5fRO7s-sMY7sCXqxY/view?usp=sharing[/url] <- Drive 
+=https://drive.google.com/file/d/15YtujGyBwfapg5w5fRO7s-sMY7sCXqxY/view?usp=sharing <- Drive 
 
 How to install ?
 
